@@ -1,0 +1,10 @@
+[
+  { "customer_id": "c-001", "category": "outdoor gear", "action": "viewed_product", "weight": 1 },
+  { "customer_id": "c-001", "category": "outdoor gear", "action": "added_to_cart", "weight": 3 },
+  { "customer_id": "c-001", "category": "footwear", "action": "viewed_product", "weight": 1 },
+  { "customer_id": "c-002", "category": "home office", "action": "purchased", "weight": 5 },
+  { "customer_id": "c-002", "category": "home office", "action": "viewed_product", "weight": 1 },
+  { "customer_id": "c-003", "category": "fitness", "action": "purchased", "weight": 4 },
+  { "customer_id": "c-003", "category": "fitness", "action": "viewed_product", "weight": 2 },
+  { "customer_id": "c-003", "category": "wellness", "action": "viewed_product", "weight": 1 }
+]

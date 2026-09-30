@@ -1,0 +1,5 @@
+[
+  { "customer_id": "c-001", "name": "Ava Thompson", "email": "ava.thompson@example.com", "preferences": ["outdoor gear"] },
+  { "customer_id": "c-002", "name": "Liam Chen", "email": "liam.chen@example.com", "preferences": ["home office"] },
+  { "customer_id": "c-003", "name": "Sofia Alvarez", "email": "sofia.alvarez@example.com", "preferences": ["fitness"] }
+]
